@@ -9,7 +9,7 @@ with open(os.path.join(here, "README.md"), encoding="utf-8") as f:
 
 setup(
     name="meeshkan-hosted-authenticate",
-    version="0.3",
+    version="0.4",
     description="Utility package to to verify firebase access tokens on meeshkan.io",
     long_description=long_description,
     long_description_content_type="text/markdown",
